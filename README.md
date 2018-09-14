@@ -45,7 +45,7 @@ You have the following code:
 </script> 
 ```
 What will be the value of count?
-
+The value count is 3
 Choose the correct answer
 
 1) 1
